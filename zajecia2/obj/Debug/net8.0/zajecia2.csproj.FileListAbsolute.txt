@@ -1,0 +1,14 @@
+C:\Users\godle\source\repos\zajecia2\zajecia2\bin\Debug\net8.0\zajecia2.exe
+C:\Users\godle\source\repos\zajecia2\zajecia2\bin\Debug\net8.0\zajecia2.deps.json
+C:\Users\godle\source\repos\zajecia2\zajecia2\bin\Debug\net8.0\zajecia2.runtimeconfig.json
+C:\Users\godle\source\repos\zajecia2\zajecia2\bin\Debug\net8.0\zajecia2.dll
+C:\Users\godle\source\repos\zajecia2\zajecia2\bin\Debug\net8.0\zajecia2.pdb
+C:\Users\godle\source\repos\zajecia2\zajecia2\obj\Debug\net8.0\zajecia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godle\source\repos\zajecia2\zajecia2\obj\Debug\net8.0\zajecia2.AssemblyInfoInputs.cache
+C:\Users\godle\source\repos\zajecia2\zajecia2\obj\Debug\net8.0\zajecia2.AssemblyInfo.cs
+C:\Users\godle\source\repos\zajecia2\zajecia2\obj\Debug\net8.0\zajecia2.csproj.CoreCompileInputs.cache
+C:\Users\godle\source\repos\zajecia2\zajecia2\obj\Debug\net8.0\zajecia2.dll
+C:\Users\godle\source\repos\zajecia2\zajecia2\obj\Debug\net8.0\refint\zajecia2.dll
+C:\Users\godle\source\repos\zajecia2\zajecia2\obj\Debug\net8.0\zajecia2.pdb
+C:\Users\godle\source\repos\zajecia2\zajecia2\obj\Debug\net8.0\zajecia2.genruntimeconfig.cache
+C:\Users\godle\source\repos\zajecia2\zajecia2\obj\Debug\net8.0\ref\zajecia2.dll
